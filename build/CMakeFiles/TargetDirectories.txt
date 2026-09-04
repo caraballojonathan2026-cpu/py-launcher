@@ -1,3 +1,0 @@
-/home/jonathan/Downloads/app-installer/files/build/CMakeFiles/py-launcher.dir
-/home/jonathan/Downloads/app-installer/files/build/CMakeFiles/edit_cache.dir
-/home/jonathan/Downloads/app-installer/files/build/CMakeFiles/rebuild_cache.dir
