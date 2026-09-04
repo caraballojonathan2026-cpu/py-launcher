@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=PyLauncher
+Comment=Python application installer and launcher for Linux
+Exec=py-launcher
+Icon=pylauncher
+Terminal=false
+Categories=Utility;Development;
+Keywords=python;app;installer;launcher;
+StartupNotify=true
